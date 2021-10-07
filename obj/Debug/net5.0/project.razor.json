@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,163 +15619,163 @@
   "RootNamespace": "RazorPagesMovie",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
-      "TargetPath": "Pages\\Movies\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Index.cshtml",
-      "TargetPath": "Pages\\Employees\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Details.cshtml",
-      "TargetPath": "Pages\\Lectures\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
-      "TargetPath": "Pages\\Movies\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Students\\Create.cshtml",
-      "TargetPath": "Pages\\Students\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Create.cshtml",
-      "TargetPath": "Pages\\Lectures\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Delete.cshtml",
-      "TargetPath": "Pages\\Lectures\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Details.cshtml",
-      "TargetPath": "Pages\\Employees\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
-      "TargetPath": "Pages\\Movies\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
-      "TargetPath": "Pages\\Movies\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Students\\Edit.cshtml",
-      "TargetPath": "Pages\\Students\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Students\\Delete.cshtml",
-      "TargetPath": "Pages\\Students\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Index.cshtml",
-      "TargetPath": "Pages\\Persons\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Create.cshtml",
-      "TargetPath": "Pages\\Persons\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Create.cshtml",
-      "TargetPath": "Pages\\Employees\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Index.cshtml",
-      "TargetPath": "Pages\\Lectures\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Delete.cshtml",
-      "TargetPath": "Pages\\Employees\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Delete.cshtml",
-      "TargetPath": "Pages\\Persons\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
-      "TargetPath": "Pages\\Movies\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Details.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Details.cshtml",
       "TargetPath": "Pages\\Persons\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Create.cshtml",
+      "TargetPath": "Pages\\Lectures\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Details.cshtml",
+      "TargetPath": "Pages\\Employees\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Edit.cshtml",
-      "TargetPath": "Pages\\Persons\\Edit.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Delete.cshtml",
+      "TargetPath": "Pages\\Lectures\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Edit.cshtml",
-      "TargetPath": "Pages\\Lectures\\Edit.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Create.cshtml",
+      "TargetPath": "Pages\\Persons\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Students\\Details.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Students\\Details.cshtml",
       "TargetPath": "Pages\\Students\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Edit.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Index.cshtml",
+      "TargetPath": "Pages\\Persons\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Details.cshtml",
+      "TargetPath": "Pages\\Lectures\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Edit.cshtml",
+      "TargetPath": "Pages\\Lectures\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Lectures\\Index.cshtml",
+      "TargetPath": "Pages\\Lectures\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Delete.cshtml",
+      "TargetPath": "Pages\\Persons\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Delete.cshtml",
+      "TargetPath": "Pages\\Employees\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Edit.cshtml",
       "TargetPath": "Pages\\Employees\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Administrator\\Desktop\\Học Tập\\File học tập\\.NET2\\RazorPagesMovie\\Pages\\Students\\Index.cshtml",
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Index.cshtml",
+      "TargetPath": "Pages\\Employees\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Employees\\Create.cshtml",
+      "TargetPath": "Pages\\Employees\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Persons\\Edit.cshtml",
+      "TargetPath": "Pages\\Persons\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Students\\Index.cshtml",
       "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Students\\Edit.cshtml",
+      "TargetPath": "Pages\\Students\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\RazorPagesMovie\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
